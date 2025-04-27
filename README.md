@@ -1,6 +1,6 @@
 This C++ project implements a dynamic vector class with a menu-driven interface that allows you to perform various operations on two vectors.
 
-✨ Features
+## ✨ Features
 * Display elements of a vector
 
 * Add and remove elements
@@ -33,35 +33,35 @@ This C++ project implements a dynamic vector class with a menu-driven interface 
 
 * Exit the program
 
-🛠 How to Run
+## 🛠 How to Run
 
 * Clone or Download the project.
 
      Make sure you have a C++ compiler (like g++) installed.
 
 * Compile the project:
-
+   ```
      g++ main.cpp -o VectorProgram
 
 * Run the executable:
-
+  ```bash
      ./VectorProgram
 
 
-📂 Project Structure
-    * main.cpp — Contains the menu and program flow.
+## 📂 Project Structure
+  * main.cpp — Contains the menu and program flow.
 
-     * vector.h — Contains the Vector class template with all the overloaded operators and functions.
+   * vector.h — Contains the Vector class template with all the overloaded operators and functions.
 
 
-🖥 Program Flow
+## 🖥 Program Flow
   * At start, you are prompted to input the size and elements for Vector 1.
 
   * Menu is displayed repeatedly until you choose to Exit.
 
   * You can perform various operations by entering the number corresponding to the menu option.
 
-Example:
+## Example:
 
 ![image](https://github.com/user-attachments/assets/2be93f42-7906-4df9-8d53-29560481d4ca)
 
